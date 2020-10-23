@@ -1,0 +1,12 @@
+{
+  "name": "kincert-conn",
+  "version": "1.0.0",
+  "description": "kincert-conn",
+  "main": "csv-to-deposit-invoke.js",
+  "author": "r3it",
+  "license": "MIT",
+  "dependencies": {
+    "@kintone/rest-api-client": "^1.7.1"
+  },
+  "private": true
+}
